@@ -1,5 +1,7 @@
-<svg width="120" height="120" viewBox="0 0 120 120">  
-    <!-- 极简抽象图形 -->  
-    <!-- <path class="graphic-svg" d="M30 60 L60 90 L90 30"/>   -->
-    <circle class="graphic-svg" cx="60" cy="60" r="28" stroke-dasharray="20 10"/>  
-</svg>  
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <circle cx="60" cy="60" r="28"
+        stroke="#000"
+        stroke-width="4"
+        fill="none"
+        stroke-dasharray="20 10" />
+</svg> 
